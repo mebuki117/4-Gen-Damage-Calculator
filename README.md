@@ -2,12 +2,11 @@
 
 現在の機能などはリリースを参照してください。
 
-#
-### 動作条件
-- .NET Framework 4.8 https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48
+## 動作条件
+以下のサイトから.NET Framework 4.8のランタイムをダウンロードしてください。
+- https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48
 
-#
-### クレジット
+## クレジット
 以下のサイトのものを参考及び、使用しています。
 
 - https://www.smogon.com/dp/articles/damage_formula
