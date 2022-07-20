@@ -1,0 +1,17 @@
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\_4世代ダメージ計算機.Resources.resources
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\4世代ダメージ計算機.vbproj.GenerateResource.cache
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\4世代ダメージ計算機.vbproj.CoreCompileInputs.cache
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\bin\Debug\4世代ダメージ計算機.exe.config
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\bin\Debug\4世代ダメージ計算機.exe
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\bin\Debug\4世代ダメージ計算機.pdb
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\bin\Debug\4世代ダメージ計算機.xml
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\4世代ダメージ計算機.exe
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\4世代ダメージ計算機.xml
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\4世代ダメージ計算機.pdb
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\_4世代ダメージ計算機.Calced_Move_1.resources
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\_4世代ダメージ計算機.Main_Form.resources
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\_4世代ダメージ計算機.Calced_Move_2.resources
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\_4世代ダメージ計算機.Calced_Move_3.resources
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\_4世代ダメージ計算機.Calced_Move_4.resources
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\_4世代ダメージ計算機.Calced_Move_5.resources
+C:\Users\PC_User\source\repos\4世代ダメージ計算機\4世代ダメージ計算機\obj\Debug\4世代ダメージ計算機.vbproj.AssemblyReference.cache
