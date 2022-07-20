@@ -934,7 +934,6 @@ Partial Class Main_Form
         Me.Move_Calced_2.Name = "Move_Calced_2"
         Me.Move_Calced_2.Size = New System.Drawing.Size(215, 27)
         Me.Move_Calced_2.TabIndex = 69
-        Me.Move_Calced_2.Text = "move calced2"
         Me.Move_Calced_2.UseVisualStyleBackColor = False
         '
         'Move_Calced_5
@@ -945,7 +944,6 @@ Partial Class Main_Form
         Me.Move_Calced_5.Name = "Move_Calced_5"
         Me.Move_Calced_5.Size = New System.Drawing.Size(215, 27)
         Me.Move_Calced_5.TabIndex = 75
-        Me.Move_Calced_5.Text = "move calced5"
         Me.Move_Calced_5.UseVisualStyleBackColor = False
         '
         'Move_Calced_4
@@ -956,7 +954,6 @@ Partial Class Main_Form
         Me.Move_Calced_4.Name = "Move_Calced_4"
         Me.Move_Calced_4.Size = New System.Drawing.Size(215, 27)
         Me.Move_Calced_4.TabIndex = 71
-        Me.Move_Calced_4.Text = "move calced4"
         Me.Move_Calced_4.UseVisualStyleBackColor = False
         '
         'Move_Select_4
@@ -2363,7 +2360,6 @@ Partial Class Main_Form
         Me.Move_Calced_3.Name = "Move_Calced_3"
         Me.Move_Calced_3.Size = New System.Drawing.Size(215, 27)
         Me.Move_Calced_3.TabIndex = 70
-        Me.Move_Calced_3.Text = "move calced3"
         Me.Move_Calced_3.UseVisualStyleBackColor = False
         '
         'Move_Calced_1
@@ -2375,7 +2371,6 @@ Partial Class Main_Form
         Me.Move_Calced_1.Name = "Move_Calced_1"
         Me.Move_Calced_1.Size = New System.Drawing.Size(215, 27)
         Me.Move_Calced_1.TabIndex = 68
-        Me.Move_Calced_1.Text = "move calced1"
         Me.Move_Calced_1.UseVisualStyleBackColor = False
         '
         'Power_1
@@ -3954,7 +3949,7 @@ Partial Class Main_Form
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.MaximizeBox = False
         Me.Name = "Main_Form"
-        Me.Text = "4世代ダメージ計算機 ver0.1.1"
+        Me.Text = "4世代ダメージ計算機 ver0.1.2"
         Me.TabControl1.ResumeLayout(False)
         Me.Normal.ResumeLayout(False)
         Me.Normal.PerformLayout()
