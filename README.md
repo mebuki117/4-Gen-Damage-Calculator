@@ -22,6 +22,9 @@
 3. ダウンロードしたzipファイルを解凍し、4世代ダメージ計算機.exeを起動します（起動時、OSによって保護される可能性があります）
 4. 各入力ボックスに必要な情報を入力することによって、計算を行えます
 
+## 連絡
+バグ報告などご連絡がある場合は、[製作者のTwitter](https://twitter.com/oyamelon)にお願いいたします。
+
 ## クレジット
 以下のサイトのものを参考及び、使用させていただいています。
 - [The Complete Damage Formula for Diamond & Pearl](https://www.smogon.com/dp/articles/damage_formula)
