@@ -19,7 +19,7 @@
 - 個体情報の保存
 
 ## 使い方
-1. [最新のリリース](https://github.com/oyamelon/4-Gen-Damage-Calculator/releases)から、4.Gen.Damage.Calculator.zipをダウンロードします
+1. [リリース](https://github.com/oyamelon/4-Gen-Damage-Calculator/releases)から、4.Gen.Damage.Calculator.zipをダウンロードします
 2. お使いのWindowsに.NET Framework 4.8のランタイムがインストールされていない場合は、[ここ](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48)からランタイムをダウンロード及び、インストールしてください
 3. ダウンロードしたzipファイルを解凍し、4世代ダメージ計算機.exeを起動します（起動時、Windowsによって保護される可能性があります）
 4. 各入力ボックスに必要な情報を入力することによって、計算を行えます
