@@ -17,12 +17,12 @@
 ## 今後実装を予定しているもの
 いずれもいつ実装かは未定。
 - バトルフロンティア（ステージ、ファクトリー）に特化したモード
-- 個体情報の保存
+- ~~個体情報の保存~~
 
 ## 使い方
-1. [リリース](https://github.com/oyamelon/4-Gen-Damage-Calculator/releases)から、4_Gen_Damage_Calculator.zipをダウンロードします。バージョンは任意で選択してください
-2. お使いのWindowsに.NET Framework 4.8のランタイムがインストールされていない場合は、[ここ](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48)からランタイムをダウンロード及び、インストールしてください
-3. ダウンロードしたzipファイルを解凍し、4世代ダメージ計算機.exeを起動します（起動時、Windowsによって保護される可能性があります）
+1. [リリース](https://github.com/oyamelon/4-Gen-Damage-Calculator/releases)から、``4_Gen_Damage_Calculator.zip``をダウンロードします。バージョンは任意で選択してください
+2. お使いのWindowsに``.NET Framework 4.8``のランタイムがインストールされていない場合は、[ここ](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48)からランタイムをダウンロード及び、インストールしてください
+3. ダウンロードしたzipファイルを解凍し、``4世代ダメージ計算機.exe``を起動します（起動時、Windowsによって保護される可能性があります）
 4. 各入力ボックスに必要な情報を入力することによって、計算を行えます
 
 ## 連絡
