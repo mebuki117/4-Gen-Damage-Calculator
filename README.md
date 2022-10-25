@@ -55,6 +55,7 @@
 - [The Complete Damage Formula for Diamond & Pearl](https://www.smogon.com/dp/articles/damage_formula)
 - [ポケモンWiki](https://wiki.xn--rckteqa2e.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
 - [ポケモンの友](https://pokebook.jp/)
+- [BulbaGarden - Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
 - [VS SWSH](https://www.project1997.com/vs/index.html)（UIを参考及び、アレンジ）
 
 ---
