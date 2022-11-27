@@ -14,7 +14,7 @@
       - 実数値から個体値を計算し、可能性のあるタイプと威力の一覧を表示することも可能
 
 ## 今後実装を予定しているもの
-いずれもいつ実装かは未定。
+~~いずれもいつ実装かは未定。~~ **バトルステージに対応完了し一段落した為現在更新停止中です。**
 - バトルフロンティア（ファクトリー）に特化したモード
 - ~~個体情報の保存~~
 
@@ -56,7 +56,7 @@
 - [ポケモンWiki](https://wiki.xn--rckteqa2e.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
 - [ポケモンの友](https://pokebook.jp/)
 - [BulbaGarden - Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
-- [VS SWSH](https://www.project1997.com/vs/index.html)（UIを参考及び、アレンジ）
+- [VS SV (旧名：VS SWSH)](https://www.project1997.com/vs/index.html)（UIを参考）
 
 ---
 
