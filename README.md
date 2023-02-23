@@ -15,13 +15,13 @@
 
 ## 今後実装を予定しているもの
 ~~いずれもいつ実装かは未定。~~ **バトルステージに対応完了し一段落した為現在更新停止中です。**
-- UIの変更（著作権を考慮するため）
+- UIの変更
 - バトルフロンティア（ファクトリー）に特化したモード
 - ~~個体情報の保存~~
 
 ## 使い方
 ### ダウンロードから起動まで
-1. [リリース](https://github.com/oyamelon/4-Gen-Damage-Calculator/releases)から、``4GenDamageCalculator.zip``をダウンロードします。バージョンは任意で選択してください
+1. [リリース](https://github.com/oyamelon/4-Gen-Damage-Calculator/releases)から、``4GenDamageCalculator.zip``をダウンロードします。バージョンは0.3.4.1以上にしてください。v0.3.4.1未満は重大な問題が修正されていません
 2. お使いのWindowsに``.NET Framework 4.8``のランタイムがインストールされていない場合は、[ここ](https://dotnet.microsoft.com/ja-jp/download/dotnet-framework/net48)からランタイムをダウンロード及び、インストールしてください
 3. ダウンロードしたzipファイルを解凍し、``4世代ダメージ計算機.exe``を起動します（起動時、Windowsによって保護される可能性があります）
 
